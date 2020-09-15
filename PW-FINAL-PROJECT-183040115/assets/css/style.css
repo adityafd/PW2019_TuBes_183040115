@@ -1,0 +1,22 @@
+body 		{background-color: lightblue;
+			position: relative;
+			width: 100%;}
+h1			{text-shadow: 2px 2px 2px blue;}
+.container 	{border: 1px solid black;
+			text-align: center;
+			font-size: 20px;
+			background-color : aqua;
+			width: 400px;
+            margin: auto;}
+table		{border: 4px solid black;
+			background-color: white;
+			text-align: center;}
+th			{background-color: lightgreen;}
+footer		{position: relative;
+			bottom: 0px;
+			width: 100%;
+			height: 100px;
+			background-color: black;
+			padding-top: 40px;}
+footer p 	{color: white;
+			font-size: 1en;}
